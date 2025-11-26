@@ -7,7 +7,12 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   site: "https://ethereal.news",
-  integrations: [sitemap(), mdx(), pagefind()],
+  integrations: [sitemap(), mdx(),
+  pagefind({
+    build: {
+      engine: 'js',
+    }
+  })],
   vite: {
     plugins: [tailwindcss()],
   },
