@@ -96,7 +96,7 @@ Snaps are apps that customize your wallet experience and let you add new feature
     * Opcodes: [EIP7791](https://eips.ethereum.org/EIPS/eip-7791) GAS2ETH; [EIP7819](https://eips.ethereum.org/EIPS/eip-7819) SETDELEGATE; [EIP7979](https://eips.ethereum.org/EIPS/eip-7979) call & return; [EIP8013](https://eips.ethereum.org/EIPS/eip-8013) static relative jumps & calls  
     * Cryptography: [EIP7619](https://eips.ethereum.org/EIPS/eip-7619) Falcon512; [EIP7932](https://eips.ethereum.org/EIPS/eip-7932) secondary signature algorithms; [EIP8030](https://eips.ethereum.org/EIPS/eip-8030) P256 transactions  
     * Pureth: [EIP6404](https://eips.ethereum.org/EIPS/eip-6404) SSZ transactions; [EIP6466](https://eips.ethereum.org/EIPS/eip-6466) SSZ receipts  
-* [Heka \+ Bogota](https://eips.ethereum.org/EIPS/eip-8081) upgrade  
+* [Heka \+ Bogota](https://eips.ethereum.org/EIPS/eip-8081) upgrade:  
   * [EIP7805](https://eips.ethereum.org/EIPS/eip-7805) FOCIL: ACDC to decide whether to set as Scheduled for Inclusion before [headliner selection](https://ethereum-magicians.org/t/community-consensus-fork-headliners-acd-working-groups/24088), potentially impacting other candidates e.g. 6 second slots
 
 #### All Core Devs \- Testing (ACDT) [\#62](https://forkcast.org/calls/acdt/062)
@@ -121,7 +121,7 @@ Snaps are apps that customize your wallet experience and let you add new feature
   * [ethlambda](https://x.com/fede_intern/status/1994843420880203867): Rust based Lean consensus client  
 * Protocol Guild [Q4 membership update](https://www.protocolguild.org/blog/20251203-Q4-quarterly-audit): 23 new members & 14 alumni  
 * [ETHClient summit](https://www.youtube.com/playlist?list=PLOB9GGXGcc32cBQNVPVv_i-asPGRG3hkI) (Devconnect) videos  
-* Ethereum improvement proposals (EIPs)  
+* Ethereum improvement proposals (EIPs):  
   * [EIP8094](https://github.com/ethereum/EIPs/pull/10853/files): eth/vhash \- blob-aware mempool  
   * [EIP8096](https://github.com/ethereum/EIPs/pull/10864/files): Increase gas cost of point evaluation  
   * [EIP8099](https://github.com/ethereum/EIPs/pull/10855/files): MEVless protocol  
