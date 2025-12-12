@@ -22,7 +22,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 * EF Ecosystem Support Program [Q3 allocations](https://blog.ethereum.org/2025/12/02/allocation-q3-25), 80 projects shared $14.3M  
 * ETH metrics:  
   * [Gas](https://ultrasound.money/#gas) (gwei): 0.1 average, 0.0 \- 2.7 (12 for zero net issuance)  
-  * [ETHUSD](https://www.coingecko.com/en/coins/ethereum): $2,736 – $3,222 (all time high $4,946, August 24, 2025\)  
+  * [ETHUSD](https://www.coingecko.com/en/coins/ethereum): $2,736 - $3,222 (all time high $4,946, August 24, 2025\)  
   * [ETH ETFs](https://dune.com/hildobby/eth-etfs): 5% of ETH supply  
   * [ETHBTC](https://ratiogang.com/): 0.034 (0.165 for the Flippening)
 
@@ -96,7 +96,7 @@ Snaps are apps that customize your wallet experience and let you add new feature
     * Opcodes: [EIP7791](https://eips.ethereum.org/EIPS/eip-7791) GAS2ETH; [EIP7819](https://eips.ethereum.org/EIPS/eip-7819) SETDELEGATE; [EIP7979](https://eips.ethereum.org/EIPS/eip-7979) call & return; [EIP8013](https://eips.ethereum.org/EIPS/eip-8013) static relative jumps & calls  
     * Cryptography: [EIP7619](https://eips.ethereum.org/EIPS/eip-7619) Falcon512; [EIP7932](https://eips.ethereum.org/EIPS/eip-7932) secondary signature algorithms; [EIP8030](https://eips.ethereum.org/EIPS/eip-8030) P256 transactions  
     * Pureth: [EIP6404](https://eips.ethereum.org/EIPS/eip-6404) SSZ transactions; [EIP6466](https://eips.ethereum.org/EIPS/eip-6466) SSZ receipts  
-* [Heka \+ Bogota](https://eips.ethereum.org/EIPS/eip-8081) upgrade:  
+* [Heka \+ Bogotá](https://eips.ethereum.org/EIPS/eip-8081) upgrade:  
   * [EIP7805](https://eips.ethereum.org/EIPS/eip-7805) FOCIL: ACDC to decide whether to set as Scheduled for Inclusion before [headliner selection](https://ethereum-magicians.org/t/community-consensus-fork-headliners-acd-working-groups/24088), potentially impacting other candidates e.g. 6 second slots
 
 #### All Core Devs \- Testing (ACDT) [\#62](https://forkcast.org/calls/acdt/062)

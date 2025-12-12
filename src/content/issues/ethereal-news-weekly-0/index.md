@@ -23,7 +23,7 @@ Gas limit increased to 60M, Fusaka upgrade December 3, FOCIL not in Glamsterdam 
 * ETH metrics:  
   * [Gas](https://ultrasound.money/#gas) (gwei): 0.2 average, 0.0 \- 9.6 (14.4 for zero net issuance)  
   * [ETH supply change](https://ultrasound.money/): 18k net issuance  
-  * [ETHUSD](https://www.coingecko.com/en/coins/ethereum): $2,685 – $3,060 (all time high $4,946, August 24, 2025\)  
+  * [ETHUSD](https://www.coingecko.com/en/coins/ethereum): $2,685 - $3,060 (all time high $4,946, August 24, 2025\)  
   * [ETH ETFs](https://dune.com/hildobby/eth-etfs): 5% of ETH supply  
   * [ETHBTC](https://ratiogang.com/): 0.033 (0.165 for the Flippening)
 
@@ -97,7 +97,7 @@ A complete suite of trusted products to build anything in web3.
     * Choose either [EIP8080](https://forkcast.org/upgrade/glamsterdam/#eip-8080) exits use consolidation queue or [EIP8061](https://forkcast.org/upgrade/glamsterdam/#eip-8061) increase churn limits  
   * Declined for Inclusion:   
     * [EIP7805](https://forkcast.org/upgrade/glamsterdam/#eip-7805) FOCIL, [EIP8071](https://forkcast.org/upgrade/glamsterdam/#eip-8071) prevent using consolidations as withdrawals & [EIP8062](https://forkcast.org/upgrade/glamsterdam/#eip-8062) sweep withdrawal fee for 0x01 validators  
-* [Heka \+ Bogota](https://github.com/ethereum/EIPs/pull/10772/files) upgrade  
+* [Heka \+ Bogotá](https://github.com/ethereum/EIPs/pull/10772/files) upgrade  
   * [EIP7805](https://eips.ethereum.org/EIPS/eip-7805) FOCIL moved from Glamsterdam & set to Considered for Inclusion, discussion on whether it should be Scheduled for Inclusion, which could impact other potential headliners (such as 6 second slots)  
 * [I-star name needed](https://ethereum-magicians.org/t/i-star-name-for-consensus-layer-upgrade-after-heka/26717) for Consensus Layer upgrade after Heka
 
