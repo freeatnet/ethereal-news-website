@@ -146,10 +146,3 @@ Snaps are apps that customize your wallet experience and let you add new feature
 
 ---
 
-### Upcoming calendar
-
-* Jan 7: [BPO2](https://lab.ethpandaops.io/ethereum/forks/bpo2) upgrade  
-* Feb 17 \- 21: [ETHDenver](https://www.ethdenver.com) (conference & hackathon)  
-* Mar 30 \- Apr 2: [EthCC](https://ethcc.io) (conference), Cannes, France
-
-[*Full calendar*](https://ethereal.news/calendar/)
