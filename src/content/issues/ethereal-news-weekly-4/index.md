@@ -1,6 +1,6 @@
 ---
 title: 'Ethereal news weekly #4'
-description: 'Uniswap voted for UNIfication, Devcon 8 November 3 \- 6 at JIO World Center, Punks & Squiggles donated to MoMA'
+description: 'Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA'
 date: 'December 26, 2025'
 ---
 
