@@ -51,10 +51,7 @@ const { Content } = await render(issue);
 
 <Layout title={issue.data.title} description={issue.data.description}>
   <Container>
-    <div class="animate">
-      <BackToPrevious href="/archive">Back to archive </BackToPrevious>
-    </div>
-    <div class="space-y-16">
+    <div class="space-y-16 pb-0">
       <div class="my-10 space-y-1">
         <h1 class="animate text-3xl font-semibold text-black dark:text-white">
           {issue.data.title}
@@ -81,10 +78,13 @@ const { Content } = await render(issue);
           </div>
         </a>
       </span>
-      <article class="animate">
+      <article class="animate mb-0">
         <Content />
-        <div class="mt-24">
+        <div class="mt-12">
           <IssueNavigation prevIssue={prevIssue} nextIssue={nextIssue} />
+        </div>
+        <div class="mt-1 mb-0">
+          <BackToPrevious href="/archive">Back to archive </BackToPrevious>
         </div>
       </article>
     </div>
