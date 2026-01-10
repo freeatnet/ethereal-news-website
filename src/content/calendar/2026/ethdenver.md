@@ -6,5 +6,6 @@ endDate: 'February 21 2026'
 location: 'Denver, United States'
 url: 'https://www.ethdenver.com/'
 tags: ['conference', 'hackathon']
+highlight: true
 ---
 

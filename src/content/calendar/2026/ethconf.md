@@ -6,5 +6,6 @@ endDate: 'June 10 2026'
 location: 'New York, United States'
 url: 'https://ethconf.com/'
 tags: ['conference']
+highlight: true
 
 ---

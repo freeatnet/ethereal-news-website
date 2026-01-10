@@ -6,5 +6,6 @@ endDate: 'November 22 2025'
 location: 'Buenos Aires, Argentina'
 url: 'https://devconnect.org/'
 tags: ['conference']
+highlight: true
 ---
 

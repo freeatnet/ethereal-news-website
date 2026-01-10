@@ -3,7 +3,7 @@ import type { Metadata, Site, Socials } from "@types";
 export const SITE: Site = {
   TITLE: "Ethereal news",
   DESCRIPTION: "Ethereum news focused on developers.",
-  NUM_CALENDAR_ITEMS_ON_HOMEPAGE: 3,
+  NUM_CALENDAR_ITEMS_ON_HOMEPAGE: 6,
 };
 
 export const HOME: Metadata = {

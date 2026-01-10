@@ -6,5 +6,6 @@ endDate: 'July 3 2025'
 location: 'Cannes, France'
 url: 'https://ethcc.io'
 tags: ['conference']
+highlight: true
 ---
 

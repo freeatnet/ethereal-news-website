@@ -6,5 +6,6 @@ endDate: 'April 2 2026'
 location: 'Cannes, France'
 url: 'https://ethcc.io'
 tags: ['conference']
+highlight: true
 ---
 

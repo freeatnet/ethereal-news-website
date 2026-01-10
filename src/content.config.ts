@@ -21,6 +21,7 @@ const calendar = defineCollection({
     endDate: z.coerce.date().optional(),
     draft: z.boolean().optional(),
     tags: z.array(z.string()).optional(),
+    highlight: z.boolean().optional(),
   }),
 });
 

@@ -6,5 +6,6 @@ endDate: 'March 2 2025'
 location: 'Denver, USA'
 url: 'https://www.ethdenver.com/'
 tags: ['conference', 'hackathon']
+highlight: true
 ---
 
