@@ -10,16 +10,7 @@ const currentDate = new Date(); // Get today's date
 const calendar = (await getCollection("calendar"))
   .filter((calendarItem) => !calendarItem.data.draft) // Filter out draft items
   .filter((calendarItem) => calendarItem.data.date >= currentDate) // Filter out past dates
-  .sort((a, b) => {
-    // Prioritize highlighted events first
-    const aIsHighlighted = a.data.highlight ?? false;
-    const bIsHighlighted = b.data.highlight ?? false;
-    if (aIsHighlighted !== bIsHighlighted) {
-      return aIsHighlighted ? -1 : 1; // Highlighted events come first
-    }
-    // Then sort by date
-    return a.data.date.valueOf() - b.data.date.valueOf();
-  });
+  .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf()); // Sort by date
 ---
 
 <Layout title={CALENDAR.TITLE} description={CALENDAR.DESCRIPTION}>
